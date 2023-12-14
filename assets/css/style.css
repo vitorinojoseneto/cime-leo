@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+/*
+CORES PRINCIPAIS
+#FFCD24-AMARELO
+*/
+.container{
+    display: block;
+    width: 86%;
+    margin: 0 auto;
+}
+.headering{
+    width: 100vw;
+    height: 100vh;
+    background: #FFCD24;
+}
+.content_header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.ul_navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    border-bottom: 3px solid #0006;
+   
+}
