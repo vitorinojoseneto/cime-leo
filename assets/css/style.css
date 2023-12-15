@@ -23,6 +23,7 @@ CORES PRINCIPAIS
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    width: 90%;
 }
 .ul_navbar{
     display: flex;
@@ -31,5 +32,38 @@ CORES PRINCIPAIS
     align-items: center;
     width: 100%;
     border-bottom: 3px solid #0006;
-   
+}
+.first_section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+    border-right: 3px solid #0006;
+}
+.first_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 50%;
+}
+.section_image_first{
+    width: 80%;
+}
+.second_div{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+
+}
+.img_second_div{
+    width: 70%;
+}
+.patrocinio{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cornflowerblue;
+    width: 98%;
 }
