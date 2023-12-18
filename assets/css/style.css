@@ -64,6 +64,6 @@ CORES PRINCIPAIS
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: cornflowerblue;
+    background: #FFCD24;
     width: 98%;
 }
